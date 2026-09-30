@@ -1,5 +1,9 @@
+<!-- A potato and a drop of water: the whole paradox is how much of one is the other. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
-    <path android:fillColor="#FFFFFF" android:pathData="M38,38 h32 a6,6 0 0 1 6,6 v20 a6,6 0 0 1 -6,6 h-32 a6,6 0 0 1 -6,-6 v-20 a6,6 0 0 1 6,-6 z" />
-    <path android:fillColor="#B2DFDB" android:pathData="M46,48 h16 v4 h-16 z M46,56 h16 v4 h-16 z" />
+    <path android:fillColor="#E6B36A" android:pathData="M25,65 C23,53 31,45 42,46 C48,46.5 51,43 59,43 C71,43 81,51 80,62 C79,72 71,78 60,78 C54,78 51,81 42,81 C31,81 26,74 25,65 Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeAlpha="0.45" android:strokeWidth="3"
+        android:strokeLineCap="round" android:pathData="M32,58 C33,52 38,50 44,51" />
+    <path android:fillColor="#9A6A2E" android:pathData="M37,64 m-2.2,0 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 M54,71 m-2.2,0 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 M68,61 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#FFFFFF" android:strokeColor="#2F80C9" android:strokeWidth="4" android:pathData="M64,22 C64,22 54.5,33.5 54.5,39 A9.5,9.5 0 0,0 73.5,39 C73.5,33.5 64,22 64,22 Z" />
 </vector>
