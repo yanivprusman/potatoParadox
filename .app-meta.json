@@ -1,0 +1,7 @@
+{
+  "description": "Interactive demo of the potato paradox: near 100%, one percentage point hides a huge change in the ratio",
+  "icon": "Sprout",
+  "sharedLibs": [
+    "android-feedback-lib"
+  ]
+}
